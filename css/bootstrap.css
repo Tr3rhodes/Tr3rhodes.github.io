@@ -85,6 +85,7 @@ sub {
 }
 img {
   border: 0;
+
 }
 svg:not(:root) {
   overflow: hidden;
@@ -226,7 +227,8 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 100% !important;
+    max-width: 599.656px;
+    max-height: 322.891px;
   }
   p,
   h2,
